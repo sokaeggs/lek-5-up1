@@ -35,3 +35,12 @@ nav{
         border: 4px solid orangered;
         gap: 5px;
     }
+
+    main{
+    border: 4px yellow;
+    }
+
+    h3{
+        border: 3px solid orangered;
+        padding-bottom: 40px;
+        }
